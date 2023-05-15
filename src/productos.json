@@ -1,0 +1,57 @@
+[
+  {
+    "id":1, 
+    "title": "Stanley Classic",
+    "descripcion": "Termo Stanley, clasico de color verde, 1.3lts con manija y tapa cebadora",
+    "code": "TR-C",
+    "price": 40000,
+    "status": "true",
+    "stock": 10,
+    "category": "Termos",
+    "thumbnail": []
+},
+  {
+    "id": 2,
+    "title": "Stanley Rosa",
+    "descripcion": "Termo Stanley, Color Limestone de 1lts con manija y tapa cebadora",
+    "code": "TR-R",
+    "price": 43000,
+    "status": "true",
+    "stock": 6,
+    "category":"Termos",
+    "thumbnail": []
+  },
+  {
+    "id": 3,
+    "title": "Stanley Blanco",
+    "descripcion": "Termo Stanley, Color Ultrawhite de 1lts con manija y tapa cebadora",
+    "code": "TR-B",
+    "price": 39000,
+    "status": "true",
+    "stock": 5,
+    "category":"Termos",
+    "thumbnail": []
+  },
+  {
+    "id": 4,
+    "title": "Stanley Botella",
+    "descripcion": "Botella Stanley, Color blanca de 500cm3, con agarre y pico.",
+    "code": "BT-B",
+    "price": 20000,
+    "status":"true",
+    "stock": 10,
+    "category": "Botellas",
+    "thumbnail": []
+  },
+  {
+    "id": 5,
+    "title": "Stanley Botella",
+    "descripcion": "Botella Stanley, Color Rosa de 500cm3, con agarre y pico.",
+    "code": "BT-R",
+    "price": 20000,
+    "status":"true",
+    "stock": 10,
+    "category": "Botellas",
+    "thumbnail": []
+  }
+]
